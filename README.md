@@ -31,7 +31,7 @@
 - 💰 **Instant USDC payments** on Base blockchain via x402 protocol
 - 🤖 **Automatic settlement** when PRs are merged
 - 🔒 **Trustless escrow** - funds locked in smart contracts
-- 💵 **5% platform fee** - transparent pricing
+- 💵 **9% platform fee** - transparent pricing
 
 ---
 
@@ -180,7 +180,7 @@ In this example:
 | **Currency** | USDC stablecoin |
 | **Protocol** | x402 (instant payments) |
 | **Settlement** | 3-5 seconds |
-| **Platform Fee** | 5% (paid by creator) |
+| **Platform Fee** | 9% (paid by creator) |
 | **Gas Fees** | Free (sponsored by platform) |
 | **Min Bounty** | $10 USDC |
 
